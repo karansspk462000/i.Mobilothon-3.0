@@ -103,7 +103,7 @@ The Driver Safety Enhancement System offers the following benefits:
 5.[ROSARIA GitHub Repository](https://github.com/amor-ros-pkg/rosaria)    
 
 ## Contributors
-1. [Karan Bhakuni](https://github.com/karansspk)
+1. [K Vamsi](https://github.com/vamsi8106)
 2. [Soham Padhye](https://github.com/sohampadhye007)
 3. [Rahul Madaan](https://github.com/Reiner009)
 
