@@ -52,7 +52,7 @@ Make sure to install and configure these dependencies before running the project
 ## Getting Started
 ### Step 1: Clone this repository
 ```
-git clone https://github.com/your-username/Elevating-Safety-Through-the-Synergy-of-Interior-Monitoring-and-External-Protection.git
+git clone https://github.com/karansspk462000/i.Mobilothon-3.0-Volkswagon.git
 ```
 
 ### Step 2: Change directory to the project folder
