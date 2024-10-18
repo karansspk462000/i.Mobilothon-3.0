@@ -1,5 +1,5 @@
 # Elevating-Safety-Through-the-Synergy-of-Interior-Monitoring-and-External-Protection
-The Driver Safety Enhancement System is a revolutionary concept that aims to provide enhanced protection for both the driver of a vehicle and pedestrians. This system incorporates advanced technologies to reduce the risk of accidents by ensuring driver attentiveness and taking preventive actions in critical situations.
+The Driver Safety Enhancement System is a revolutionary concept that aims to provide enhanced protection for both the driver of a vehicle and pedestrians. 
 
 ## Key Features
 
